@@ -1,12 +1,11 @@
-def my_sum(a, b):
-    result = a + b
-    print(f"a + b = {result}")
-        
-def my_sub(a, b):
-    result = a - b
-    print(f"a - b = {result}")
+def func1():
+    print("function1")
 
-name1 = "test1"
-name2 = "test2"
-
-
+if __name__ == "__main__":
+    def func2():
+        print("function2")
+    ("ejra be sorate mostaqim")
+else:
+    def func3():
+        print("function3")
+    print("ejra az biroon")
